@@ -1,5 +1,5 @@
 # Deep-learning-notes
-## This repo collects all the notebooks related to the Diploma in Deep Learning that I experienced in Machinfy Center, each notebook is a specific exercise about something new that I have learned
+## This repo collects all the notebooks related to the Deep Learning Diploma that I experienced in Machinfy Academy, each notebook is a specific exercise about something new that I have learned
 ### This file will be a map file for the repo :
 ______________________________________________________________________________________________________________________
 ## 1- Notebook 1 : From ML to DL 
