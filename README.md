@@ -10,3 +10,7 @@ To try to compare the algorithms of machine learning and deep learning : Acc : +
 
 ## 2- Notebook 2 : TF audio module
 Try to get to know the module and how to use it simply and how to perform sound processing from Tensorflow
+
+## 3- Notebook 3 : ANN Regression Model 
+###  Dataset link : https://www.kaggle.com/datasets/aggarwalrahul/dl-intro-to-nn?select=usedcars.csv
+design ANN regression model with different optimizers & lesess functions 
