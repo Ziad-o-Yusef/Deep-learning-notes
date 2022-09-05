@@ -14,3 +14,6 @@ Try to get to know the module and how to use it simply and how to perform sound 
 ## 3- Notebook 3 : ANN Regression Model 
 ###  Dataset link : https://www.kaggle.com/datasets/aggarwalrahul/dl-intro-to-nn?select=usedcars.csv
 design ANN regression model with different optimizers & lesess functions 
+
+## 4- Notebook 4 : Regression With Tensorboard
+The first look at the tensor board, an attempt to understand the deep model work through the tensor board technology
