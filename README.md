@@ -5,7 +5,6 @@ ________________________________________________________________________________
 ## 1- Notebook 1 : From ML to DL 
 ### Dataset link : https://www.kaggle.com/competitions/tabular-playground-series-sep-2021/data
 Kaggle competitions are incredibly fun and rewarding, but they can also be intimidating for people who are relatively new in their data science journey. In the past, we've launched many Playground competitions that are more approachable than our Featured competitions and thus, more beginner-friendly.
-In order to have a more consistent offering of these competitions for our community, we're trying a new experiment in 2021. We'll be launching month-long tabular Playground competitions on the 1st of every month and continue the experiment as long as there's sufficient interest and participation.
 To try to compare the algorithms of machine learning and deep learning : Acc : +86% 
 
 ## 2- Notebook 2 : TF audio module
@@ -17,3 +16,24 @@ design ANN regression model with different optimizers & lesess functions
 
 ## 4- Notebook 4 : Regression With Tensorboard
 The first look at the tensor board, an attempt to understand the deep model work through the tensor board technology
+
+## 5- Notebook 5 : Musical Emotions Classification
+### Dataset : https://www.kaggle.com/datasets/kingofarmy/musical-emotions-classification
+First attempt to make an audio model using nn model..as well as hands-on training on Libroza in Python
+
+## 6- Notebook 5.1 : Musical Emotions Classification - Final Note 
+### Dataset : https://www.kaggle.com/datasets/kingofarmy/musical-emotions-classification
+The update that took place on the previous model, improving its work and some modifications in the Liproza function, with Accuracy 95% +
+
+## 7- Notebook 6 : C V - Image Processing with OpenCV python
+### Dataset : https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset
+An application with computer vision algorithms on images in Python, an attempt to images processing 
+
+## 8- Notebook 7 : Fashion Mnist with CNN 
+CNN is using a model for the first time on the Classification Data from Tensor Flow and trying to reach the best Accuracy and applying CNN algorithms
+
+## 9- Notebook 8 : Cifar10 Classification with CNN 
+Training in CNN model 
+
+## 10- Notebook 9 : Face Recognation with CNN
+Training in CNN model 
