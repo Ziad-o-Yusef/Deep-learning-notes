@@ -37,3 +37,15 @@ Training in CNN model
 
 ## 10- Notebook 9 : Face Recognation with CNN
 Training in CNN model 
+
+## 11- Notebook 10 : Rock_Paper_Scissors dataset with CNN
+### Dataset : https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=rock_paper_scissors
+Training in CNN model with 96% acc
+
+## 12- Notebook 11 : svhn_cropped tf classification dataset with CNN
+### Dataset : https://www.tensorflow.org/datasets/catalog/svhn_cropped
+Training in CNN model with 97% acc
+
+## 12- Notebook 11 : Time Classification with CNN
+### Dataset : https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification?datasetId=2419066
+Training in CNN model with 97% acc, 144 class with keras generator 
