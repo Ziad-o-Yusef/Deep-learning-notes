@@ -46,6 +46,11 @@ Training in CNN model with 96% acc
 ### Dataset : https://www.tensorflow.org/datasets/catalog/svhn_cropped
 Training in CNN model with 97% acc
 
-## 13- Notebook 11 : Time Classification with CNN
+## 13- Notebook 12 : Time Classification with CNN
 ### Dataset : https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification?datasetId=2419066
 Training in CNN model with 97% acc, 144 class with keras generator 
+
+## 13- Notebook 13 : Children vs Adults Classification 
+### Dataset : https://www.kaggle.com/datasets/die9origephit/children-vs-adults-images
+Image Classification with chalinging becouse it is a small dataset 800 images in training & 150 in testing , And Iapplyed Pretrained model to fix the essue [DenseNet201 model] and have acc +85%
+
